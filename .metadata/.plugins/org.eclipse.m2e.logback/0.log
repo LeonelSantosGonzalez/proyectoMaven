@@ -1,0 +1,9 @@
+2023-02-11 16:03:43,152 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-02-11 16:05:30,011 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.devpredator:practicamaven:0.0.1-SNAPSHOT @ C:\practicamaven\target\m2e-wtp\web-resources\META-INF\maven\com.devpredator\practicamaven\pom.xml.
+2023-02-11 16:05:32,892 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /practicamaven/src/main/java
+2023-02-11 16:05:32,893 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /practicamaven/src/test/java
+2023-02-11 16:05:40,818 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 14 sec
+2023-02-11 16:05:43,104 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-11 16:05:43,105 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\practicamaven\target\m2e-wtp\web-resources\META-INF\maven\com.devpredator\practicamaven\src\main\resources
+2023-02-11 16:05:43,115 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-02-11 16:05:43,116 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\practicamaven\target\m2e-wtp\web-resources\META-INF\maven\com.devpredator\practicamaven\src\test\resources
